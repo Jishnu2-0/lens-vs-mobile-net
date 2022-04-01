@@ -1,0 +1,201 @@
+.bed{
+    background-color:cornflowerblue;
+    float:none;
+    height:45%;
+    width:90%;
+    padding: 60px;
+    border-radius : 50px ;
+    margin:10px;
+    
+
+}
+.bedImg{
+    height: 300px;
+    width: 330px;
+    float:left;
+    border-radius: 30px;
+    padding-top: 20px;
+}
+.ggl-result{
+    padding-right: 400px;
+    background-color: aliceblue;
+    width:10px;
+    height:60px;
+    border-radius: 50px;
+    white-space:nowrap;
+    padding-left: 25px;
+    padding-top: 10px;
+    float: left;
+    margin:15px;
+
+}
+.header {
+    height: 30%;
+    width: 800px;
+    float:none;
+    background-color: blueviolet;
+    color:white;
+    padding: 5px;
+    border-radius:50px;
+}
+.mobile-result
+{
+    padding-right: 400px;
+    background-color: aliceblue;
+    width:10px;
+    height:60px;
+    border-radius: 50px;
+    white-space:nowrap;
+    padding-left: 25px;
+    padding-top: 10px;
+    float: right;
+    margin:15px;
+}
+.line1{
+    padding:100px;
+    float:right;
+    width:55%;
+    background-color: aliceblue;
+    margin:20px;
+    border-radius: 20px;
+}
+.food{
+    background-color:cornflowerblue;
+    float:none;
+    height:450px;
+    width: 105%;
+    border-radius : 50px ;
+    white-space:pre-line;
+    margin-top: 100px;
+    
+}
+.foodImg{
+    height: 300px;
+    width: 330px;
+    float:left;
+    border-radius: 30px;
+    padding-top: 10px;
+    position: relative;
+    right:-50px;
+}
+.ggl-result2{
+    padding-right: 400px;
+    background-color: aliceblue;
+    width:10px;
+    height:60px;
+    border-radius: 50px;
+    white-space:nowrap;
+    padding-top: 10px;
+    padding-left: 25px;
+    float: left;
+    margin:10px;
+    position:absolute;
+    top:920px;
+    left:500px;
+}
+
+.mobile-result2
+{
+    padding-right: 400px;
+    background-color: aliceblue;
+    width:10px;
+    height:60px;
+    border-radius: 50px;
+    white-space:nowrap;
+    padding-left: 25px;
+    padding-top: 10px;
+    float: right;
+    margin:15px;
+    position:absolute;
+    top:920px;
+    left:1000px; 
+    
+}
+.line2{
+    padding:100px;
+    float:right;
+    width:50%;
+    height: 70px;
+    background-color: aliceblue;
+    margin:20px;
+    position: relative;
+    top: -35px;
+    left:-40px;
+    border-radius: 20px;
+
+}
+.testimage2{
+position: relative;
+left:100px;
+top:20px;
+}
+.Headphones{
+    background-color:cornflowerblue;
+    float:none;
+    height:450px;
+    width: 105%;
+    border-radius : 50px ;
+    white-space:pre-line;
+    margin-top: 100px;
+    
+}
+.HeadphonesImg{
+    height: 300px;
+    width: 330px;
+    float:left;
+    border-radius: 30px;
+    padding-top: 10px;
+    position: relative;
+    right:-50px;
+}
+.ggl-result3{
+    padding-right: 400px;
+    background-color: aliceblue;
+    width:10px;
+    height:60px;
+    border-radius: 50px;
+    white-space:nowrap;
+    padding-top: 10px;
+    padding-left: 25px;
+    float: left;
+    margin:10px;
+    position:absolute;
+    top:1500px;
+    left:500px;
+}
+
+.mobile-result3
+{
+    padding-right: 400px;
+    background-color: aliceblue;
+    width:10px;
+    height:60px;
+    border-radius: 50px;
+    white-space:nowrap;
+    padding-left: 25px;
+    padding-top: 10px;
+    float: right;
+    margin:15px;
+    position:absolute;
+    top:1500px;
+    left:1000px; 
+    
+}
+.line3{
+    padding:100px;
+    float:right;
+    width:50%;
+    background-color: aliceblue;
+    margin:20px;
+    height: 70px;
+    position: relative;
+    top: -35px;
+    left:-40px;
+    border-radius: 20px;
+
+}
+.testimage3{
+position: relative;
+left:100px;
+top:20px;
+}
